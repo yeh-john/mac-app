@@ -1,13 +1,17 @@
-### *1.You need to cheange file name*
+### *1. You need to cheange file name*
 /mac-app/MemeVideo/Contents/MacOS/
 ```
 $ mv main.command.sh main.command
 ```
 ***
-### *You need to give permision to sheel*
+### *2. You need to give permision to sheel*
 /mac-app/MemeVideo/Contents/MacOS/
+```
 chmod u+x main.command
+```
 ***
-### *You need to change directory name*
+### *3. You need to change directory name*
 /mac-app/MemeVideo
+```
 mv MemeVideo MemeVideo.app
+```
