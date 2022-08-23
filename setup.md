@@ -1,4 +1,4 @@
-###* You need to cheange file name
+### *You need to cheange file name*
 /mac-app/MemeVideo/Contents/MacOS/
 mv main.command.sh main.command
 ***
