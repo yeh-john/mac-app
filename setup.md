@@ -1,7 +1,7 @@
 ### *You need to cheange file name*
-'''
+```
 /mac-app/MemeVideo/Contents/MacOS/
-'''
+```
 mv main.command.sh main.command
 ***
 ### *You need to give permision to sheel*
